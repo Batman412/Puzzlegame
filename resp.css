@@ -1,0 +1,25 @@
+header{
+
+    font-size: 2rem;
+    margin-bottom: 15px;
+}
+.grid {
+    grid-template-columns: 80px 80px 80px 80px;
+    grid-template-rows: 80px 80px 80px 80px;
+    /* border: 1px solid #550000; */
+  }
+  .footer span {
+    /* flex: 1; */
+    /* text-align: center; */
+    font-size: 18px;
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    /* color: #b60a2f; */
+    /* font-weight: bold; */
+    margin: auto;
+  }
+  .footer button{
+      width: 110px;
+  }
+  .descrp{
+    font-size: 17px;
+  }

@@ -1,0 +1,20 @@
+.grid {
+    grid-template-columns: 70px 70px 70px 70px;
+    grid-template-rows: 70px 70px 70px 70px;
+    /* border: 1px solid #550000; */
+  }
+  .footer span {
+    /* flex: 1; */
+    /* text-align: center; */
+    font-size: 16px;
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    /* color: #b60a2f; */
+    /* font-weight: bold; */
+    margin: auto;
+  }
+  .footer button{
+    width: 90px;
+}
+.descrp{
+    font-size: 14px;
+  }
